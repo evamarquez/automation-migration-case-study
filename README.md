@@ -118,3 +118,14 @@ I owned the inventory, source-of-truth decisions, blueprint comparison, field ma
 
 See [privacy.md](privacy.md) for the exact boundary around what is intentionally omitted.
 
+## Project documentation
+
+Read the migration evidence as a case study:
+
+- [Project brief](docs/project-brief.md)
+- [Migration design](docs/migration-design.md)
+- [Risk and decision register](docs/risk-and-decisions.md)
+- [Production evidence](docs/production-evidence.md)
+- [Close-out report](docs/close-out-report.md)
+
+The [documentation index](docs/README.md) explains how the artefacts fit together.
