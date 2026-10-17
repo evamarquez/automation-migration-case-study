@@ -1,6 +1,6 @@
 # Automation migration: Airtable to Supabase
 
-[View the visual project portfolio](https://www.by-evamarquez.com/technical-project-management). This repository contains sanitized delivery documentation, not private application source code.
+[View the visual project portfolio](https://www.by-evamarquez.com/portfolio). This repository contains sanitized delivery documentation, not private application source code.
 
 How I documented and rebuilt a production automation estate without treating a blueprint export as the source of truth.
 
